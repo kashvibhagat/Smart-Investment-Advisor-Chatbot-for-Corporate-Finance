@@ -20,7 +20,7 @@ This project was developed as part of the **Financial Management** course at NMI
 
 Our full IEEE-format research paper explaining the methodology, architecture, experiments, limitations & future scope is included in this repository.
 
-👉 [Read the Paper](./)
+👉 [Read the Paper](./Smart Financial Advisor Chatbot Research Paper.pdf)
 
 *(Cited from project paper: Smart Investment Advisor Chatbot for Corporate Finance Queries)*
 
